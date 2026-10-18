@@ -1,0 +1,201 @@
+ranking,pelicula,soporte,usuarios,generos
+1,American Beauty (1999),0.4752,2853,Comedy|Drama
+2,Star Wars: Episode IV - A New Hope (1977),0.4367,2622,Action|Adventure|Fantasy|Sci-Fi
+3,Star Wars: Episode V - The Empire Strikes Back (1980),0.4181,2510,Action|Adventure|Drama|Sci-Fi|War
+4,Raiders of the Lost Ark (1981),0.3764,2260,Action|Adventure
+5,Saving Private Ryan (1998),0.3762,2259,Action|Drama|War
+6,"Silence of the Lambs, The (1991)",0.3751,2252,Drama|Thriller
+7,"Matrix, The (1999)",0.3616,2171,Action|Sci-Fi|Thriller
+8,"Sixth Sense, The (1999)",0.3603,2163,Thriller
+9,Star Wars: Episode VI - Return of the Jedi (1983),0.3541,2126,Action|Adventure|Romance|Sci-Fi|War
+10,Fargo (1996),0.3454,2074,Crime|Drama|Thriller
+11,Schindler's List (1993),0.3448,2070,Drama|War
+12,"Shawshank Redemption, The (1994)",0.3408,2046,Drama
+13,Terminator 2: Judgment Day (1991),0.3404,2044,Action|Sci-Fi|Thriller
+14,"Godfather, The (1972)",0.3311,1988,Action|Crime|Drama
+15,Braveheart (1995),0.3293,1977,Action|Drama|War
+16,"Princess Bride, The (1987)",0.3205,1924,Action|Adventure|Comedy|Romance
+17,Back to the Future (1985),0.3181,1910,Comedy|Sci-Fi
+18,Shakespeare in Love (1998),0.3126,1877,Comedy|Romance
+19,L.A. Confidential (1997),0.3123,1875,Crime|Film-Noir|Mystery|Thriller
+20,Pulp Fiction (1994),0.2948,1770,Crime|Drama
+21,Being John Malkovich (1999),0.2928,1758,Comedy
+22,Jurassic Park (1993),0.2881,1730,Action|Adventure|Sci-Fi
+23,"Terminator, The (1984)",0.2803,1683,Action|Sci-Fi|Thriller
+24,Forrest Gump (1994),0.2773,1665,Comedy|Romance|War
+25,Groundhog Day (1993),0.2766,1661,Comedy|Romance
+26,Toy Story (1995),0.2756,1655,Animation|Children's|Comedy
+27,Men in Black (1997),0.2738,1644,Action|Adventure|Comedy|Sci-Fi
+28,E.T. the Extra-Terrestrial (1982),0.2737,1643,Children's|Drama|Fantasy|Sci-Fi
+29,Alien (1979),0.2703,1623,Action|Horror|Sci-Fi|Thriller
+30,"Fugitive, The (1993)",0.269,1615,Action|Thriller
+31,"Usual Suspects, The (1995)",0.2678,1608,Crime|Thriller
+32,Ghostbusters (1984),0.2578,1548,Comedy|Horror
+33,One Flew Over the Cuckoo's Nest (1975),0.2528,1518,Drama
+34,Gladiator (2000),0.2508,1506,Action|Drama
+35,Blade Runner (1982),0.2473,1485,Film-Noir|Sci-Fi
+36,"Godfather: Part II, The (1974)",0.2403,1443,Action|Crime|Drama
+37,Casablanca (1942),0.2388,1434,Drama|Romance|War
+38,Aliens (1986),0.2367,1421,Action|Sci-Fi|Thriller|War
+39,Stand by Me (1986),0.2365,1420,Adventure|Comedy|Drama
+40,"Wizard of Oz, The (1939)",0.2307,1385,Adventure|Children's|Drama|Musical
+41,GoodFellas (1990),0.2282,1370,Crime|Drama
+42,Monty Python and the Holy Grail (1974),0.2272,1364,Comedy
+43,Die Hard (1988),0.2219,1332,Action|Thriller
+44,Toy Story 2 (1999),0.2169,1302,Animation|Children's|Comedy
+45,"Hunt for Red October, The (1990)",0.216,1297,Action|Thriller
+46,Indiana Jones and the Last Crusade (1989),0.216,1297,Action|Adventure
+47,Airplane! (1980),0.2139,1284,Comedy
+48,2001: A Space Odyssey (1968),0.2115,1270,Drama|Mystery|Sci-Fi|Thriller
+49,Jaws (1975),0.2109,1266,Action|Horror
+50,Good Will Hunting (1997),0.209,1255,Drama
+51,Total Recall (1990),0.2079,1248,Action|Adventure|Sci-Fi|Thriller
+52,Babe (1995),0.2055,1234,Children's|Comedy|Drama
+53,When Harry Met Sally... (1989),0.2017,1211,Comedy|Romance
+54,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),0.201,1207,Sci-Fi|War
+55,"Bug's Life, A (1998)",0.1985,1192,Animation|Children's|Comedy
+56,North by Northwest (1959),0.1949,1170,Drama|Thriller
+57,Butch Cassidy and the Sundance Kid (1969),0.1949,1170,Action|Comedy|Western
+58,Lethal Weapon (1987),0.1945,1168,Action|Comedy|Crime|Drama
+59,Ferris Bueller's Day Off (1986),0.1945,1168,Comedy
+60,Amadeus (1984),0.1924,1155,Drama
+61,Galaxy Quest (1999),0.1907,1145,Adventure|Comedy|Sci-Fi
+62,Star Wars: Episode I - The Phantom Menace (1999),0.1885,1132,Action|Adventure|Fantasy|Sci-Fi
+63,Election (1999),0.1882,1130,Comedy
+64,Who Framed Roger Rabbit? (1988),0.185,1111,Adventure|Animation|Film-Noir
+65,"Christmas Story, A (1983)",0.184,1105,Comedy|Drama
+66,Fight Club (1999),0.1824,1095,Drama
+67,Twelve Monkeys (1995),0.1804,1083,Drama|Sci-Fi
+68,"Breakfast Club, The (1985)",0.1777,1067,Comedy|Drama
+69,Raising Arizona (1987),0.1775,1066,Comedy
+70,Close Encounters of the Third Kind (1977),0.1772,1064,Drama|Sci-Fi
+71,Annie Hall (1977),0.1767,1061,Comedy|Romance
+72,Big (1988),0.175,1051,Comedy|Fantasy
+73,As Good As It Gets (1997),0.1744,1047,Comedy|Drama
+74,"Graduate, The (1967)",0.1737,1043,Drama|Romance
+75,X-Men (2000),0.1736,1042,Action|Sci-Fi
+76,"Abyss, The (1989)",0.1712,1028,Action|Adventure|Sci-Fi|Thriller
+77,Rain Man (1988),0.1711,1027,Drama
+78,Psycho (1960),0.1711,1027,Horror|Thriller
+79,Clerks (1994),0.1687,1013,Comedy
+80,Chinatown (1974),0.1682,1010,Film-Noir|Mystery|Thriller
+81,Dances with Wolves (1990),0.1682,1010,Adventure|Drama|Western
+82,Star Trek: The Wrath of Khan (1982),0.1679,1008,Action|Adventure|Sci-Fi
+83,High Fidelity (2000),0.1677,1007,Comedy
+84,Taxi Driver (1976),0.1662,998,Drama|Thriller
+85,Reservoir Dogs (1992),0.1657,995,Crime|Thriller
+86,Apollo 13 (1995),0.1647,989,Drama
+87,Young Frankenstein (1974),0.1646,988,Comedy|Horror
+88,"Fish Called Wanda, A (1988)",0.1642,986,Comedy
+89,Full Metal Jacket (1987),0.1642,986,Action|Drama|War
+90,Life Is Beautiful (La Vita è bella) (1997),0.1636,982,Comedy|Drama
+91,Sling Blade (1996),0.1634,981,Drama|Thriller
+92,"Green Mile, The (1999)",0.1632,980,Drama|Thriller
+93,There's Something About Mary (1998),0.1629,978,Comedy
+94,Independence Day (ID4) (1996),0.1602,962,Action|Sci-Fi|War
+95,Rear Window (1954),0.1597,959,Mystery|Thriller
+96,Apocalypse Now (1979),0.1589,954,Drama|War
+97,Citizen Kane (1941),0.1572,944,Drama
+98,Speed (1994),0.1571,943,Action|Romance|Thriller
+99,Chicken Run (2000),0.1569,942,Animation|Children's|Comedy
+100,Erin Brockovich (2000),0.1569,942,Drama
+101,"Blues Brothers, The (1980)",0.1569,942,Action|Comedy|Musical
+102,"Clockwork Orange, A (1971)",0.1546,928,Sci-Fi
+103,"Maltese Falcon, The (1941)",0.1531,919,Film-Noir|Mystery
+104,Animal House (1978),0.1521,913,Comedy
+105,Glory (1989),0.1519,912,Action|Drama|War
+106,"Sting, The (1973)",0.1519,912,Comedy|Crime
+107,Platoon (1986),0.1507,905,Drama|War
+108,This Is Spinal Tap (1984),0.1504,903,Comedy|Drama|Musical
+109,Aladdin (1992),0.1499,900,Animation|Children's|Comedy|Musical
+110,American Pie (1999),0.1494,897,Comedy
+111,Run Lola Run (Lola rennt) (1998),0.1494,897,Action|Crime|Romance
+112,Seven (Se7en) (1995),0.1489,894,Crime|Thriller
+113,"African Queen, The (1951)",0.1489,894,Action|Adventure|Romance|War
+114,Jerry Maguire (1996),0.1482,890,Drama|Romance
+115,Titanic (1997),0.1481,889,Drama|Romance
+116,Willy Wonka and the Chocolate Factory (1971),0.1481,889,Adventure|Children's|Comedy|Fantasy
+117,Contact (1997),0.1469,882,Drama|Sci-Fi
+118,M*A*S*H (1970),0.1444,867,Comedy|War
+119,Thelma & Louise (1991),0.1442,866,Action|Drama
+120,"Untouchables, The (1987)",0.1429,858,Action|Crime|Drama
+121,"South Park: Bigger, Longer and Uncut (1999)",0.1421,853,Animation|Comedy
+122,"Boat, The (Das Boot) (1981)",0.1421,853,Action|Drama|War
+123,Beetlejuice (1988),0.1421,853,Comedy|Fantasy
+124,Edward Scissorhands (1990),0.1416,850,Drama|Romance
+125,Blazing Saddles (1974),0.1402,842,Comedy|Western
+126,"Fifth Element, The (1997)",0.1399,840,Action|Sci-Fi
+127,"Full Monty, The (1997)",0.1397,839,Comedy
+128,"Shining, The (1980)",0.1394,837,Horror
+129,Almost Famous (2000),0.1387,833,Comedy|Drama
+130,"Bridge on the River Kwai, The (1957)",0.1386,832,Drama|War
+131,Star Trek: First Contact (1996),0.1379,828,Action|Adventure|Sci-Fi
+132,"Rock, The (1996)",0.1377,827,Action|Adventure|Thriller
+133,Batman (1989),0.1369,822,Action|Adventure|Crime|Drama
+134,To Kill a Mockingbird (1962),0.1369,822,Drama
+135,Clueless (1995),0.1369,822,Comedy|Romance
+136,Rushmore (1998),0.1364,819,Comedy
+137,Romancing the Stone (1984),0.1364,819,Action|Adventure|Comedy|Romance
+138,"Wrong Trousers, The (1993)",0.1364,819,Animation|Comedy
+139,True Lies (1994),0.1359,816,Action|Adventure|Comedy|Romance
+140,Gone with the Wind (1939),0.1356,814,Drama|Romance|War
+141,"Patriot, The (2000)",0.1342,806,Action|Drama|War
+142,Rocky (1976),0.1339,804,Action|Drama
+143,Witness (1985),0.1336,802,Drama|Romance|Thriller
+144,Four Weddings and a Funeral (1994),0.1319,792,Comedy|Romance
+145,Get Shorty (1995),0.1311,787,Action|Comedy|Drama
+146,Magnolia (1999),0.1304,783,Drama
+147,"Crying Game, The (1992)",0.1304,783,Drama|Romance|War
+148,Cool Hand Luke (1967),0.1299,780,Comedy|Drama
+149,Unforgiven (1992),0.1292,776,Western
+150,Mission: Impossible (1996),0.1284,771,Action|Adventure|Mystery
+151,Grosse Pointe Blank (1997),0.1282,770,Comedy|Crime
+152,"Lion King, The (1994)",0.1282,770,Animation|Children's|Musical
+153,Austin Powers: International Man of Mystery (1997),0.1282,770,Comedy
+154,Predator (1987),0.1279,768,Action|Sci-Fi|Thriller
+155,Vertigo (1958),0.1277,767,Mystery|Thriller
+156,"Few Good Men, A (1992)",0.1274,765,Crime|Drama
+157,"Talented Mr. Ripley, The (1999)",0.1256,754,Drama|Mystery|Thriller
+158,American Graffiti (1973),0.1243,746,Comedy|Drama
+159,Face/Off (1997),0.1233,740,Action|Sci-Fi|Thriller
+160,Bull Durham (1988),0.1226,736,Comedy
+161,"Professional, The (a.k.a. Leon: The Professional) (1994)",0.1219,732,Crime|Drama|Romance|Thriller
+162,Boogie Nights (1997),0.1216,730,Drama
+163,My Cousin Vinny (1992),0.1209,726,Comedy
+164,Beauty and the Beast (1991),0.1206,724,Animation|Children's|Musical
+165,Pleasantville (1998),0.1204,723,Comedy
+166,Lawrence of Arabia (1962),0.1201,721,Adventure|War
+167,Elizabeth (1998),0.1198,719,Drama
+168,"Player, The (1992)",0.1196,718,Comedy|Drama
+169,Austin Powers: The Spy Who Shagged Me (1999),0.1193,716,Comedy
+170,Planet of the Apes (1968),0.1189,714,Action|Sci-Fi
+171,Some Like It Hot (1959),0.1169,702,Comedy|Crime
+172,Patriot Games (1992),0.1169,702,Action|Thriller
+173,Three Kings (1999),0.1168,701,Drama|War
+174,"American President, The (1995)",0.1163,698,Comedy|Drama|Romance
+175,Brazil (1985),0.1156,694,Sci-Fi
+176,"Good Morning, Vietnam (1987)",0.1153,692,Comedy|Drama|War
+177,"Big Lebowski, The (1998)",0.1153,692,Comedy|Crime|Mystery|Thriller
+178,Mary Poppins (1964),0.1151,691,Children's|Comedy|Musical
+179,Monty Python's Life of Brian (1979),0.1151,691,Comedy
+180,Clear and Present Danger (1994),0.1151,691,Action|Adventure|Thriller
+181,Sneakers (1992),0.1149,690,Crime|Drama|Sci-Fi
+182,Star Trek IV: The Voyage Home (1986),0.1148,689,Action|Adventure|Sci-Fi
+183,"Insider, The (1999)",0.1146,688,Drama
+184,"Truman Show, The (1998)",0.1141,685,Drama
+185,Say Anything... (1989),0.1136,682,Comedy|Drama|Romance
+186,In the Line of Fire (1993),0.1133,680,Action|Thriller
+187,"French Connection, The (1971)",0.1133,680,Action|Crime|Drama|Thriller
+188,Goldfinger (1964),0.1131,679,Action
+189,"League of Their Own, A (1992)",0.1123,674,Comedy|Drama
+190,"Thomas Crown Affair, The (1999)",0.1123,674,Action|Thriller
+191,Indiana Jones and the Temple of Doom (1984),0.1116,670,Action|Adventure
+192,Dead Man Walking (1995),0.1114,669,Drama
+193,"Little Mermaid, The (1989)",0.1108,665,Animation|Children's|Comedy|Musical|Romance
+194,Gattaca (1997),0.1104,663,Drama|Sci-Fi|Thriller
+195,Caddyshack (1980),0.1104,663,Comedy
+196,Superman (1978),0.1096,658,Action|Adventure|Sci-Fi
+197,"Manchurian Candidate, The (1962)",0.1093,656,Film-Noir|Thriller
+198,"Good, The Bad and The Ugly, The (1966)",0.1091,655,Action|Western
+199,Wayne's World (1992),0.1091,655,Comedy
+200,Chasing Amy (1997),0.1088,653,Drama|Romance

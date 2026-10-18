@@ -1,0 +1,12 @@
+indicador,valor
+usuarios_totales,6038.0
+peliculas_totales,3533.0
+transacciones,6004.0
+items,200.0
+densidad,0.1813
+soporte_min,0.15
+confianza_min,0.6
+reglas_finales,341.0
+reglas_recomendador,4802.0
+lift_minimo_hibrido,2.0
+casos_prueba,1201.0

@@ -1,0 +1,17 @@
+N,sistema,hitrate,cobertura,regla_activa
+1,Reglas (lift),0.0291,0.375,1.0
+3,Reglas (lift),0.0633,0.535,1.0
+5,Reglas (lift),0.0924,0.59,1.0
+10,Reglas (lift),0.1674,0.625,1.0
+1,Reglas (confianza),0.06,0.18,1.0
+3,Reglas (confianza),0.1199,0.26,1.0
+5,Reglas (confianza),0.174,0.325,1.0
+10,Reglas (confianza),0.2531,0.505,1.0
+1,Híbrido,0.0525,0.265,0.9917
+3,Híbrido,0.1199,0.39,0.9917
+5,Híbrido,0.1615,0.46,0.9917
+10,Híbrido,0.2356,0.585,0.9917
+1,Populares,0.0341,0.115,0.0
+3,Populares,0.0774,0.205,0.0
+5,Populares,0.1182,0.28,0.0
+10,Populares,0.2015,0.435,0.0
