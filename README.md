@@ -5,7 +5,7 @@ Docente: Danilo Gómez Correa
 
 Integrantes: Lucas Hermosilla Díaz · Rodolfo Hidalgo Memmel · Ariel Linero Torres
 
-🔗 **App publicada:** [PEGAR AQUÍ EL LINK DE STREAMLIT](https://share.streamlit.io)
+**App publicada:** [PEGAR AQUÍ EL LINK DE STREAMLIT](https://share.streamlit.io)
 
 ---
 
@@ -59,7 +59,7 @@ El notebook está organizado en 9 secciones: 1) problema y base de datos, 2) lim
 | **Recomendador** | El usuario elige películas y recibe N recomendaciones con su regla de origen, confianza y lift, indicando cuándo se usó el respaldo de populares |
 | **Evaluación** | HitRate@N y cobertura del catálogo de los cuatro sistemas frente a la línea base |
 
-## Cómo ejecutarlo
+## Ejecutarlo
 
 ### Dashboard en tu computador
 
