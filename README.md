@@ -5,7 +5,7 @@ Docente: Danilo Gómez Correa
 
 Integrantes: Lucas Hermosilla Díaz · Rodolfo Hidalgo Memmel · Ariel Linero Torres
 
-**App publicada:** [PEGAR AQUÍ EL LINK DE STREAMLIT](https://share.streamlit.io)
+**App publicada:** [(https://peliculas-grupo6.streamlit.app/)]
 
 ---
 
